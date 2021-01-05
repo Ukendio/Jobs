@@ -13,12 +13,18 @@ Ming Media is a game studio that has over five years on the platform, with over 
 
 **Your task** 
 
-The job entails to texture an existing wing model with surface appearance/pbr texture to enable some parts to be transparent! Currently you can see parts of the mesh which you're not supposed to: 
-![080d099e68f50042d2cd68ac1257eaad|video](upload://pucxP2WPotNVaM7v5OWDYl8NZhy.mp4) 
+Your job is to make a new cartoony texture with a feathery look to them.
+![](https://media.discordapp.net/attachments/793150307974643714/793244993141080094/unknown.png)
+while in reality the model is shaped in a way like this:
+![](https://media.discordapp.net/attachments/793150307974643714/793245140466008094/unknown.png)
+A common approach to this problem would be using PBR/Surface appearance to accomplish this.
 
 Another issue of the texture is that it is simply too realistic for our use, which is why you need to make something in the style of these references: 
 ![image|528x286](upload://5KvGvt8KojFSrKt1AATP7gE4Z8N.png) 
 ![image|474x370](upload://tLGlzExcY0GBPNMwpmNPeUtJqjk.png) 
+
+Current:![080d099e68f50042d2cd68ac1257eaad|video](upload://pucxP2WPotNVaM7v5OWDYl8NZhy.mp4) 
+
 
 Please let me know if you're interested at:
 DevForum: Ukendio

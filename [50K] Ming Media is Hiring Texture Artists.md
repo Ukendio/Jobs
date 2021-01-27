@@ -30,3 +30,5 @@ Please let me know if you're interested at:
 DevForum: Ukendio
 Discord: Marcus!#9168 -- Please DM me on DevForum your username
 Twitter: Ukendio
+
+Source: https://devforum.roblox.com/t/50k-ming-media-is-hiring-texture-artists/964464

@@ -6,8 +6,7 @@ Ming Media AB is the studio behind titles such as [Horse Valley](https://www.rob
 
 ![_theJob|240x50](upload://ymXAIB4swTCbC1ADvnSKgfgFhsZ.png) 
 
-We are looking for an experienced..
-This job is for our game [Horse Valley](https://www.roblox.com/games/2830250344/Horse-Valley). We need to update our rigid horse rig to use the skinned meshes technology.
+We are looking for an experienced modeller that can update a horse model from our game [Horse Valley](https://www.roblox.com/games/2830250344/Horse-Valley), to use skinned meshes technology.
 ![image width = "50"](https://user-images.githubusercontent.com/68000848/120935594-d3f7e500-c703-11eb-9720-b7b99e16b937.png)
 
 What needs to be done is creating a skeleton hierarchy of joints in Maya or software equivalent. Name these the same as the limb names and then skin to these joints so that the existing animations will work. Every joint and motor needs to be placed in the same places of the rigid model with vertex weight applied. Previous attempts has failed due to that the FBX importer has an issue in where it will misplace joints causing unintended behaviour which can be seen here: ![image](https://user-images.githubusercontent.com/68000848/120935704-44066b00-c704-11eb-96b1-6c2bd99d5e65.png)

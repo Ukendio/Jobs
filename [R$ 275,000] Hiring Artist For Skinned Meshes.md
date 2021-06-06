@@ -6,7 +6,7 @@ Ming Media AB is the studio behind titles such as [Horse Valley](https://www.rob
 
 ![_theJob|240x50](upload://ymXAIB4swTCbC1ADvnSKgfgFhsZ.png) 
 
-This job is for our game, [Horse Valley](https://www.roblox.com/games/2830250344/Horse-Valley). We need to migrate our rigid horse rigs to be compatible with the skinned meshes update.
+This job is for our game [Horse Valley](https://www.roblox.com/games/2830250344/Horse-Valley). We need to migrate our rigid horse rigs to be compatible with the skinned meshes update.
 
 We have previously tried to do this on multiple times to no avail, it is a very delicate job that requires a lot of persistence and retrial. The job involves rigging the horse as R15 and weightpaint the horse so that it is completely compatible with all previous animations that were made for the rigid mesh. The underlying issue is due the FBX importer being bugged causing joints to be placed incorrectly, leading to cause the horse to look grotesque.
 

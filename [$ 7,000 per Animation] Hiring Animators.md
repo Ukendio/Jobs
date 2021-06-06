@@ -9,21 +9,17 @@ Ming Media AB is the studio behind titles such as [Horse Valley](https://www.rob
 We have a horse model from our game, [Horse Valley](https://www.roblox.com/games/2830250344/Horse-Valley), that we would like to be animated.
 
 The animations we are looking for are:
-- Walk in Place
-- Side Step
-- Skid
-
-Here are references for the aforementioned animations:
-<https://youtu.be/CMcHuq_wy9E?t=112>
-<https://youtu.be/CMcHuq_wy9E?t=122>
-<https://youtu.be/CMcHuq_wy9E?t=245>
+- [Walk In Place](https://youtu.be/CMcHuq_wy9E?t=112)
+- [Side Step](https://youtu.be/CMcHuq_wy9E?t=122)
+- [Skid](https://youtu.be/CMcHuq_wy9E?t=245)
 
 ![_Pay|240x50](upload://lmANzVG0Wpf4mHo0M7utyFEeNwb.png) 
-All payment will be paid in commission. The price of each animation will vary per animation depending on quality and length. However, generally you can expect around :robux_gold: 7,000 for each animation.
+
+Payment is competitive For all of the animations, you can expect a payment of around :robux_gold: 21,000
 
 
 ![_contactUs|240x50](upload://xPJ4B7nCFTQOLXvZRWfxx5Aujl4.png) 
 
-If you're interested, please email [ ukendio@gmail.com](mailto:ukendio@gmail.com) and include your portfolio along with a brief description of why you want this job. Alternatively you can also send your portfolio via DevForum but expect an extended delay in response.
+If you're interested, please email [ ukendio@gmail.com](mailto:ukendio@gmail.com). Alternatively you can also send your portfolio via DevForum but expect an extended delay in response.
 
 **Other openings**

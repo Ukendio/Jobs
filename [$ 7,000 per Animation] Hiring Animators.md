@@ -6,14 +6,20 @@ Ming Media AB is the studio behind titles such as [Horse Valley](https://www.rob
 
 ![_theJob|240x50](upload://ymXAIB4swTCbC1ADvnSKgfgFhsZ.png) 
 
-This job is for our game, [Horse Valley](https://www.roblox.com/games/2830250344/Horse-Valley) we need want to migrate our rigid horse rigs to be compatible with the skinned meshes update.
+We have a horse model from our game, [Horse Valley](https://www.roblox.com/games/2830250344/Horse-Valley), that we would like to be animated.
 
-Since before we have tried to do this on multiple times to no avail, it is a very delicate job that requires a lot of persistence and retrial. The job entails to rig the horse as R15 and weightpaint the horse so that it is completely compatible with all previous animations that were made for the rigid mesh. The weightpaint is going to determine how the skinned mesh deforms and therefore needs to look good with any of our attachable items. If the weightpaint is done correctly, it will be exactly the same as the aforementioned rigid body and thus comply to our horse animations.
+The animations we are looking for are:
+- Walk in Place
+- Side Step
+- Skid
 
-</br>
+Here are references for the aforementioned animations:
+<https://youtu.be/CMcHuq_wy9E?t=112>
+<https://youtu.be/CMcHuq_wy9E?t=122>
+<https://youtu.be/CMcHuq_wy9E?t=245>
 
 ![_Pay|240x50](upload://lmANzVG0Wpf4mHo0M7utyFEeNwb.png) 
-Competitive and negotiable. The expected pay is 275,000 :robux_gold: (~962.5 USD). Payment will not be transferred until the skinned meshes has successfully been deployed, tested and reassured that everything works completely fine in our games. 
+All payment will be paid in commission. The price of each animation will vary per animation depending on quality and length. However, generally you can expect around :robux_gold: 7,000 for each animation.
 
 
 ![_contactUs|240x50](upload://xPJ4B7nCFTQOLXvZRWfxx5Aujl4.png) 

@@ -17,6 +17,6 @@ Competitive and negotiable. The expected pay is 275,000 :robux_gold: (~962.5 USD
 
 ![_contactUs|240x50](upload://xPJ4B7nCFTQOLXvZRWfxx5Aujl4.png) 
 
-If you're interested, please email [ ukendio@gmail.com](mailto:ukendio@gmail.com) and include your portfolio along with a brief description of why you want this job. Alternatively you can also send your portfolio via DevForum but expect an extended delay in response.
+If you're interested, please email [ ukendio@gmail.com](mailto:ukendio@gmail.com). Alternatively you can also send your portfolio via DevForum but expect an extended delay in response.
 
 **Other openings**

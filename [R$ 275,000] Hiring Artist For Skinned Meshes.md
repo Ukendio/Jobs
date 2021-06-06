@@ -8,13 +8,12 @@ Ming Media AB is the studio behind titles such as [Horse Valley](https://www.rob
 
 This job is for our game, [Horse Valley](https://www.roblox.com/games/2830250344/Horse-Valley) we need want to migrate our rigid horse rigs to be compatible with the skinned meshes update.
 
-Since before we have tried to do this on multiple times to no avail, it is a very delicate job that requires a lot of persistence and retrial. The job entails to rig the horse as R15 and weightpaint the horse so that it is completely compatible with all previous animations that were made for the rigid mesh. The weightpaint is going to determine how the skinned mesh deforms and therefore needs to look good with any of our attachable items. If the weightpaint is done correctly, it will be exactly the same as the aforementioned rigid body and thus comply to our horse animations.
+We have previously tried to do this on multiple times to no avail, it is a very delicate job that requires a lot of persistence and retrial. The job involves rigging the horse as R15 and weightpaint the horse so that it is completely compatible with all previous animations that were made for the rigid mesh. The underlying issue is due the FBX importer being bugged causing joints to be placed incorrectly, leading to cause the horse to look grotesque.
 
 </br>
 
 ![_Pay|240x50](upload://lmANzVG0Wpf4mHo0M7utyFEeNwb.png) 
-Competitive and negotiable. The expected pay is 275,000 :robux_gold: (~962.5 USD). Payment will not be transferred until the skinned meshes has successfully been deployed, tested and reassured that everything works completely fine in our games. 
-
+Competitive and negotiable. The expected pay is 275,000 :robux_gold: (~962.5 USD). Payment will not be transferred until the skinned version has successfully been deployed, tested and reassured that everything works completely fine in our games. This means that the skinned version needs to be analogous to the rigid version in animation.
 
 ![_contactUs|240x50](upload://xPJ4B7nCFTQOLXvZRWfxx5Aujl4.png) 
 

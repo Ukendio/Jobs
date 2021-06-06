@@ -15,7 +15,7 @@ The animations we are looking for are:
 
 ![_Pay|240x50](upload://lmANzVG0Wpf4mHo0M7utyFEeNwb.png) 
 
-Payment is competitive For all of the animations, you can expect a payment of around :robux_gold: 21,000
+Payment is competitive and negotiable. For all of the animations, you can expect a payment of around :robux_gold: 21,000
 
 
 ![_contactUs|240x50](upload://xPJ4B7nCFTQOLXvZRWfxx5Aujl4.png) 

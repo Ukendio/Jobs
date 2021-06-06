@@ -6,14 +6,23 @@ Ming Media AB is the studio behind titles such as [Horse Valley](https://www.rob
 
 ![_theJob|240x50](upload://ymXAIB4swTCbC1ADvnSKgfgFhsZ.png) 
 
-This job is for our game [Horse Valley](https://www.roblox.com/games/2830250344/Horse-Valley). We need to migrate our rigid horse rigs to be compatible with the skinned meshes update.
+We are looking for an experienced..
+This job is for our game [Horse Valley](https://www.roblox.com/games/2830250344/Horse-Valley). We need to update our rigid horse rig to use the skinned meshes technology.
+![image](https://user-images.githubusercontent.com/68000848/120935594-d3f7e500-c703-11eb-9720-b7b99e16b937.png)
 
-We have previously tried to do this on multiple times to no avail, it is a very delicate job that requires a lot of persistence and retrial. The job involves rigging the horse as R15 and weightpaint the horse so that it is completely compatible with all previous animations that were made for the rigid mesh. The underlying issue is due the FBX importer being bugged causing joints to be placed incorrectly, leading to cause the horse to look grotesque.
+What needs to be done is creating a skeleton hierarchy of joints in Maya or software equivalent. Name these the same as the limb names and then skin to these joints so that the existing animations will work. Every joint and motor needs to be placed in the same places of the rigid model with vertex weight applied. Previous attempts has failed due to that the FBX importer has an issue in where it will misplace joints causing unintended behaviour which can be seen here: ![image](https://user-images.githubusercontent.com/68000848/120935704-44066b00-c704-11eb-96b1-6c2bd99d5e65.png)
+![gif](https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/3/d/0/3d04a83ca38d3881e9cf39c51dec26bd4dd1e259.gif)
+![image](https://user-images.githubusercontent.com/68000848/120935819-e3c3f900-c704-11eb-86c2-2e135f8be475.png)
+<small>motors are at green dots and joints at blue - the problem is that they should be at the same places</small>.
+
+We have tried importing the model with FFlagSkinUseSkeletonAPI enabled slightly alters the placements of these joints but no sigificant improvements and replaces some issues with new ones. Using FFlags is not a good solution as they cannot be applied in practice anyways.
+
+You need to ensure that your fixes both let's us use pre-existing animations but also any future animations made. And you are liable for any issues that arises after.
 
 </br>
 
 ![_Pay|240x50](upload://lmANzVG0Wpf4mHo0M7utyFEeNwb.png) 
-Competitive and negotiable. The expected pay is 275,000 :robux_gold: (~962.5 USD). Payment will not be transferred until the skinned version has successfully been deployed, tested and reassured that everything works completely fine in our games. This means that the skinned version needs to be analogous to the rigid version in animation.
+Competitive and negotiable. The expected pay is :robux_gold: 275,000 (~962.5 USD).  
 
 ![_contactUs|240x50](upload://xPJ4B7nCFTQOLXvZRWfxx5Aujl4.png) 
 

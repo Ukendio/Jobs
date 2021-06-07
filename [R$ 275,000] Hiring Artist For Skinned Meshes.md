@@ -6,7 +6,7 @@ Ming Media AB is the studio behind titles such as [Horse Valley](https://www.rob
 
 ![_theJob|240x50](upload://ymXAIB4swTCbC1ADvnSKgfgFhsZ.png) 
 
-We are looking for an experienced 3D artist that can update our rigid horse model to use [skinned meshes](https://devforum.roblox.com/t/skinned-meshparts-are-live/831011)
+We are looking for an experienced 3D artist that can update our rigid horse model to use [skinned meshes](https://devforum.roblox.com/t/skinned-meshparts-are-live/831011):
 
 ![image width = "50"](https://user-images.githubusercontent.com/68000848/120935594-d3f7e500-c703-11eb-9720-b7b99e16b937.png)
 
@@ -20,7 +20,7 @@ An important note is that our previous attempts at this job have failed due to a
 ![image width = "50"](https://user-images.githubusercontent.com/68000848/120935819-e3c3f900-c704-11eb-86c2-2e135f8be475.png)
 Green = Motors, Blue = Joints. The problem is that they should be at the same places. So apart of this job is to either resolve this issue or make sure it doesn't happen.
 
-You need to ensure that your fixes both let's us use pre-existing animations but also any future animations made. And you are liable for any issues that arises after.
+You need to ensure that your fixes both let's us use pre-existing animations but also any future animations made.
 
 </br>
 

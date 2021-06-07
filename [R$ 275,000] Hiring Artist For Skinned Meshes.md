@@ -10,17 +10,15 @@ We are looking for an experienced 3D artist that can update our rigid horse mode
 
 ![image width = "50"](https://user-images.githubusercontent.com/68000848/120935594-d3f7e500-c703-11eb-9720-b7b99e16b937.png)
 
- - create a skeleton hierarchy of the horse and skin the joints to the body parts. The joints should be placed according to the current rig's so it continues to be compatible with our current animations. 
+ - Create a skeleton hierarchy of the horse and skin the joints to the body parts. The joints should be placed according to the current rig's so it continues to be compatible with our current animations. 
  - Weightpaint the horse so that attached accessories stay attached to the body parts.
- - import the horse into Studio and make sure it looks and functions just as properly as the rigid counterpart in-game. 
+ - Import the horse into Studio and make sure it looks and functions just as properly as the rigid counterpart in-game. 
 
 An important note is that our previous attempts at this job have failed due to a FBX importer bug which misplaces our horse's joints:
 ![image](https://user-images.githubusercontent.com/68000848/120935704-44066b00-c704-11eb-96b1-6c2bd99d5e65.png)
 ![gif](https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/3/d/0/3d04a83ca38d3881e9cf39c51dec26bd4dd1e259.gif)
 ![image width = "50"](https://user-images.githubusercontent.com/68000848/120935819-e3c3f900-c704-11eb-86c2-2e135f8be475.png)
 Green = Motors, Blue = Joints. The problem is that they should be at the same places. So apart of this job is to either resolve this issue or make sure it doesn't happen.
-
-We have tried importing the model with FFlagSkinUseSkeletonAPI enabled which slightly alters the placements of these joints but no sigificant improvements and replaces some issues with new ones. Using FFlags is not a good solution as they cannot be applied in practice anyways.
 
 You need to ensure that your fixes both let's us use pre-existing animations but also any future animations made. And you are liable for any issues that arises after.
 
